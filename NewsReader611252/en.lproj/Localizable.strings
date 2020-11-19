@@ -1,0 +1,36 @@
+/* 
+ Localizable.strings
+ NewsReader611252
+ 
+ Created by Ali Yussef on 14/10/2020.
+ 
+ */
+"Log out" = "Log out";
+"News List" = "News List";
+"Home" = "Home";
+"Favourite List" = "Favourite List";
+"Favourite" = "Favourite";
+"Log in" = "Log in";
+"Loading news..." = "Loading news...";
+"News Details" = "News Details";
+"Read more" = "Read more";
+"Loading favourite news list..." = "Loading favourite news list...";
+"Your favourite list is empty!" = "Your favourite list is empty!";
+"Log in to see your favourite news list!" = "Log in to see your favourite news list!";
+"Trying to login..." = "Trying to login...";
+"Enter username" = "Enter username";
+"Enter password" = "Enter password";
+"Don't have an account?" = "Don't have an account?";
+"Sign up!" = "Sign up!";
+"Error" = "Error";
+"Could not login" = "Could not login";
+"OK" = "OK";
+"Login" = "Login";
+"Trying to signup..." = "Trying to signup...";
+"Confirm password" = "Confirm password";
+"Password does't match!" = "Password does't match!";
+"Successfully registered" = "Successfully registered";
+"Username already exists" = "Username already exists";
+"Sign up" = "Sign up";
+"Registration" = "Registration";
+"Signup" = "Signup";

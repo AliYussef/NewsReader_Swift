@@ -1,0 +1,36 @@
+/* 
+ Localizable.strings
+ NewsReader611252
+ 
+ Created by Ali Yussef on 14/10/2020.
+ 
+ */
+"Log out" = "Uitloggen";
+"News List" = "Nieuws lijst";
+"Home" = "Voorpagina";
+"Favourite List" = "Favorietenlijst";
+"Favourite" = "Favoriete";
+"Log in" = "Log in";
+"Loading news..." = "Nieuws laden ...";
+"News Details" = "Nieuws Details";
+"Read more" = "Lees verder";
+"Loading favourite news list..." = "Favoriete nieuwslijst laden ...";
+"Your favourite list is empty!" = "Je lijst met favorieten is leeg!";
+"Log in to see your favourite news list!" = "Log in om je favoriete nieuwslijst te zien!";
+"Trying to login..." = "Probeert in te loggen ...";
+"Enter username" = "Vul je gebruikersnaam in";
+"Enter password" = "Voer wachtwoord in";
+"Don't have an account?" = "Nog geen account?";
+"Sign up!" = "Aanmelden!";
+"Error" = "Fout";
+"Could not login" = "Kon niet inloggen";
+"OK" = "OK";
+"Login" = "Login";
+"Trying to signup..." = "Bezig met aanmelden ...";
+"Confirm password" = "Bevestig wachtwoord";
+"Password does't match!" = "Wachtwoord komt niet overeen!";
+"Successfully registered" = "Succesvol geregistreerd";
+"Username already exists" = "Gebruikersnaam bestaat al";
+"Sign up" = "Aanmelden";
+"Registration" = "Registratie";
+"Signup" = "Aanmelden";
